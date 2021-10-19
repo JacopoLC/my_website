@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Jacopo Lorusso Caputi, I am a Masters in Financial Analysis student at London Business School. I was born in Naples, but I grew up in Rome and now I am 22 years old.
+    title: Hi, my name is Jacopo Lorusso Caputi
   blog: {}
   contact:
     address:
@@ -81,14 +81,14 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Aliquam
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        title: Risk Return of DJIA Industrial Average
+        url: blogs/risk_return
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
