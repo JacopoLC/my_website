@@ -88,7 +88,7 @@ params:
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Risk Return of DJIA Industrial Average
-        url: blogs/risk_return
+        url: blogs/HW_1
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
@@ -96,7 +96,7 @@ params:
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
-        url: blogs/ipsum
+        url: blogs/ipsumxx
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
